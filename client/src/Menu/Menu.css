@@ -1,0 +1,10 @@
+.header {
+      font-family: 'Josefin Sans', sans-serif;
+      display: flex;
+      color: white;
+      padding-left: 10px;
+      line-height: 80px;
+      min-width: 560px;
+      background-color: #31688a;
+}
+
